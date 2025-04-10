@@ -3,7 +3,9 @@ CUDA-based Stochastic Gradient Descent
 
 ## Hardware
 CPU: Intel(R) Xeon(R) W-11955M CPU @ 2.60GHz
+
 GPU: NVIDIA RTX A3000
+
 ```
 +-----------------------------------------------------------------------------------------+
 | NVIDIA-SMI 570.133.07             Driver Version: 570.133.07     CUDA Version: 12.8     |
